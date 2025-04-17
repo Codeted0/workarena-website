@@ -17,7 +17,7 @@ export default function HeroSection() {
             Get Started
           </button> */}
           <Link
-              to="http://localhost:5173/dashboard"
+              to="https://workarena-1vbu.vercel.app/login"
               className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-full shadow-lg transition-all btn-bounce"
             >
               Get Started
